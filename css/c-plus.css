@@ -125,7 +125,7 @@
     }
     .info{
         width: 95vw;
-        height: 45vh;
+        height: inherit;
         display: flex;
         justify-content: center;
         margin: auto;
