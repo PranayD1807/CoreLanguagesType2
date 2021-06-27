@@ -1,6 +1,8 @@
 .kotlin{
     background-color: rgb(68, 67, 67);
-    background-image: url(../images/bg4.jpg);
+    /* background-image: url(../images/bg4.jpg); */
+    background-image: url(https://www.apriorit.com/images/articles/kotlin_vs_java/OG_From_Plain_Boring_Java_to_Exciting_Reactive_Kotlin.jpg);
+
     background-size: cover;
     color: wheat;
 }
