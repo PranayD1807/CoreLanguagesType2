@@ -9,13 +9,13 @@ body {
   position: relative;
 }
 .myslider .item.c {
-  background-color: #325D7F;
+  background-color: #325d7f;
 }
 .myslider .item.b {
-  background-color: #F2727F;
+  background-color: #f2727f;
 }
 .myslider .item.a {
-  background-color: #F9B294;
+  background-color: #f9b294;
 }
 .myslider .item h2 {
   color: #fff;
@@ -51,7 +51,6 @@ body {
   background-color: #fff;
   text-indent: -9999px;
   outline: 0;
-  
 }
 .slick-dots button:hover {
   background-color: #000;
@@ -101,7 +100,8 @@ body {
   top: 0;
   display: block;
 }
-.slick-track:before, .slick-track:after {
+.slick-track:before,
+.slick-track:after {
   content: "";
   display: table;
 }
@@ -118,7 +118,7 @@ body {
   min-height: 1px;
   display: none;
 }
-[dir=rtl] .slick-slide {
+[dir="rtl"] .slick-slide {
   float: right;
 }
 .slick-slide img {
