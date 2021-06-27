@@ -214,6 +214,9 @@ div.book-inner > div.front {
     padding: 5px 20px;
     margin-top: 1vh;
   }
+  div.book{
+    margin-top: 1%;
+  }
   .sources {
     width: 95vw;
     height: 50vh;
