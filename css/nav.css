@@ -19,18 +19,19 @@ html::-webkit-scrollbar {
 .nav-link {
   color: white !important;
   border-radius: 9px;
+  margin: 0px 5px;
 }
 .navbar-toggler {
   background: white !important;
 }
 .active {
-  background: rgb(210 195 195);;
+  background: whitesmoke;
   color: black !important;
 }
 .nav-link:hover,
 .nav-link:focus,
 .nav-link:active {
-  background: rgb(210 195 195);;
+  background: whitesmoke;
   color: black !important;
 }
 
