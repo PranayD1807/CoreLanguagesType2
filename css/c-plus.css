@@ -171,8 +171,8 @@ div.book > div.book-inner {
 div.book-inner > div.side {
   transform-origin: center;
   position: absolute;
-  left: -11px;
-  width: 22px;
+  left: -7px;
+  width: 15px;
   height: 100%;
   transform: rotateY(-90deg);
   background-color: white;

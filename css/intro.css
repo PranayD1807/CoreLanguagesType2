@@ -1,3 +1,10 @@
 .intro{
     background-color: black;
+    background-image: url('https://ncube-digest.com/wp-content/uploads/2019/11/5-Most-Popular-AI-Programming-Languages.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+.intro h2{
+    padding-top: 8%;
+    text-shadow: 5px 5px black;
 }
