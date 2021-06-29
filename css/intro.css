@@ -22,6 +22,7 @@
     margin-top: 2vh;
     /* box-shadow: 2px 2px black; */
 }
+
 @media only screen and (max-width: 1025px) {
     .logo img{
         height: 50px;

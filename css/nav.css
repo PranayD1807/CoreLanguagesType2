@@ -8,7 +8,16 @@
 html::-webkit-scrollbar {
   width: 0rem;
 }
-
+#navbar01{
+  display: flex;
+  justify-content: flex-end;
+  /* background-color: antiquewhite; */
+  /* margin-left: 2vw; */
+ 
+}
+.navbar-toggler:focus {
+  box-shadow: none;
+}
 .navi {
   z-index: 4;
 }
@@ -17,12 +26,16 @@ html::-webkit-scrollbar {
   background: transparent;
 }
 .nav-link {
-  color: white !important;
+  color: rgb(255, 255, 255) !important;
   border-radius: 9px;
-  margin: 0px 5px;
+  margin: 2px 5px;
+  text-align: center;
+  
 }
 .navbar-toggler {
-  background: white !important;
+  background-color: whitesmoke;
+  /* background: transparent; */
+  margin-right: 3vw;
 }
 .active {
   background: whitesmoke;
