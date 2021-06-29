@@ -246,6 +246,7 @@ footer .bottom-details .bottom_text {
   footer{
     height: 80vh;
     background-color: #000000;
+    margin-top: 15vh;
   }
   footer .content{
     padding: 15px 0px 0px 0px;
